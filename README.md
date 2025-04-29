@@ -1,4 +1,6 @@
-### Hi there 👋
+Casual Coder making side projects
+
+Completed higher eduction in programming and digital design
 
 <!--
 **NicolChristie/NicolChristie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
